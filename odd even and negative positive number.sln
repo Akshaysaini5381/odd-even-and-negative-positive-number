@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.547
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odd even and negative positive number", "odd even and negative positive number\odd even and negative positive number.csproj", "{6CFA04B9-590F-46FF-9CEF-D1365723C271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFA04B9-590F-46FF-9CEF-D1365723C271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFA04B9-590F-46FF-9CEF-D1365723C271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFA04B9-590F-46FF-9CEF-D1365723C271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFA04B9-590F-46FF-9CEF-D1365723C271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {338A7BFF-3B32-4E36-A367-389978DADA58}
+	EndGlobalSection
+EndGlobal
